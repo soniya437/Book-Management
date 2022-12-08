@@ -179,9 +179,6 @@ const updateBookById = async function (req, res) {
 }
 
 
-
-
-
 //-----------------------------*** Delete Book by BookID ***-----------------------------------------------------------------------------//
 const deleteBookById = async function (req, res) {
     try {
